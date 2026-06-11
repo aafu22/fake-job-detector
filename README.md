@@ -21,7 +21,7 @@ An end-to-end Machine Learning and MLOps project that detects fraudulent job pos
 - MLflow
 - Flask
 
-Run Locally
+## Run Locally
 
 pip install -r requirements.txt
 python app.py
