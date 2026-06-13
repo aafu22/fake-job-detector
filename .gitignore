@@ -4,6 +4,7 @@ __pycache__/
 
 artifacts/
 
+
 mlruns/
 mlflow.db
 
